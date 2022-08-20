@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/voice_to_text_app/static/js/main.68a96d15.js",
+    "index.html": "/voice_to_text_app/index.html",
+    "main.68a96d15.js.map": "/voice_to_text_app/static/js/main.68a96d15.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.68a96d15.js"
+  ]
+}
